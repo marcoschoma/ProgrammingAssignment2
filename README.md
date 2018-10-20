@@ -2,7 +2,7 @@
 Assignment: Caching the Inverse of a Matrix
 Part of R Programming course, by Coursera (https://www.coursera.org/learn/r-programming/home/info)
 
-##Creating the cache
+## Creating the cache
 
 Starting from a new matrix or having it passed to the function, 'makeCacheMatrix' will return a list with four functions.
 
